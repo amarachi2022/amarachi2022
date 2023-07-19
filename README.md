@@ -1,10 +1,35 @@
-- 👋 Hi, I’m Amarachi
-- 👀 I’m interested in cloud devops engineering
-- 🌱 I’m currently learning how to deploy different web applications on digital ocean
-- 💞️ I’m looking to collaborate on any cloud project
-- 📫 You can reach me with onukoguamarachi2@gmail.com
 
-<!---
-amarachi2022/amarachi2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgaming-banner&psig=AOvVaw2V0FKkbIDnFpy6x449f-zb&ust=1689868667517000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjyyMmRm4ADFQAAAAAdAAAAABAD)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Amarachi Onukogu</h1>
+<h3 align="center">A Cloud/Devops Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://gifer.com/en/2GU">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarachi2022&label=Profile%20views&color=0e75b6&style=flat" alt="amarachi2022" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarachi2022" alt="amarachi2022" /></a> </p>
+
+- 🔭 I’m currently working on **Nginx Ingress Controller**
+
+- 🌱 I’m currently learning **Kubernetes**
+
+- 📝 I regularly write articles on [https://amarachionukogu.hashnode.dev/](https://amarachionukogu.hashnode.dev/)
+
+- 💬 Ask me about **AWS,Docker and K8s**
+
+- 📫 How to reach me **Onukoguamarachi2@gmail.com**
+
+- ⚡ Fun fact **I have probably read more books than anyone you know. Plus I am a huge Lana Del Rey fan**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/amarachi-onukogu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amarachi-onukogu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarachi2022&show_icons=true&locale=en&layout=compact" alt="amarachi2022" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarachi2022&show_icons=true&locale=en" alt="amarachi2022" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarachi2022&" alt="amarachi2022" /></p>
