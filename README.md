@@ -1,12 +1,11 @@
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgaming-banner&psig=AOvVaw2V0FKkbIDnFpy6x449f-zb&ust=1689868667517000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjyyMmRm4ADFQAAAAAdAAAAABAD)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Amarachi Onukogu</h1>
+<h1 align="center">Hi there 👋, I'm Amarachi Onukogu</h1>
 <h3 align="center">A Cloud/Devops Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/en/2GU">
+<img align="right" alt="Coding" width="200" src="https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.webp">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarachi2022&label=Profile%20views&color=0e75b6&style=flat" alt="amarachi2022" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarachi2022" alt="amarachi2022" /></a> </p>
 
 - 🔭 I’m currently working on **Nginx Ingress Controller**
 
@@ -14,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://amarachionukogu.hashnode.dev/](https://amarachionukogu.hashnode.dev/)
 
-- 💬 Ask me about **AWS,Docker and K8s**
+- 💬 Ask me about **AWS, Docker and K8s**
 
 - 📫 How to reach me **Onukoguamarachi2@gmail.com**
 
